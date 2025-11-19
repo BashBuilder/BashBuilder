@@ -13,6 +13,3 @@
 - **Database:** PostgreSQL, MongoDB  
 - **DevOps:** Docker, AWS, CI/CD  
 - **Tools:** Git, VSCode, Postman
-
-### 📊 GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BashBuilder&show_icons=true)
